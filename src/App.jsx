@@ -97,7 +97,7 @@ const App = () => {
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 1 }}
           >
-            TempEmail.io
+            TempEmail.fun
           </motion.h1>
           <p className="text-lg mb-6 font-mono text-center">Generate and manage your temporary disposable emails effortlessly.</p>
           <p className="text-lg mb-6 font-mono">A small project by:</p> 
