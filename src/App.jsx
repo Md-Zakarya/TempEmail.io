@@ -106,7 +106,7 @@ const App = () => {
             onMouseEnter={handleMouseEnter}
             onMouseLeave={handleMouseLeave}
           >
-            <a href="https://mohammadzakaryaportfolio.netlify.app/" target="_blank" rel="noopener noreferrer">
+            <a href="mohammadzakaryaportfolio.vercel.app" target="_blank" rel="noopener noreferrer">
               <motion.img
                 src={myphoto}
                 alt="Your Photo"
